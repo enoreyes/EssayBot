@@ -4,8 +4,7 @@
 
 > EssayBot is an attempt to outline a system that combines state of the art techniques in the domain of text synthesis (GPT-2) with advanced grammar and style parsers, with the goal of proposing a model for a new highly efficient writing assistant software.
 
-- Warning: This software is still under development so may not build successfully.
-
+- Warning: This repo is still under development so may not build successfully.
 
 ## Installation
 
@@ -34,9 +33,9 @@ $ ./Runme
 ---
 
 ## Features
-- Clone this repo
-- Clone this repo
-- Clone this repo t
+- Utilizes the small (117M Parameter) implementation of OpenAI's GPT-2 to generate text
+- Cleans the output and removes duplicate (Still implementing this)
+- Parses the output using LanguageTool to find style / grammar errors
 
 ## Contributing
 
@@ -80,4 +79,4 @@ Reach out to me at one of the following places!
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://enoreyes.com" target="_blank">Eno Reyes</a>.
+- Copyright 2019 © <a href="http://enoreyes.com" target="_blank">Eno Reyes</a>.
