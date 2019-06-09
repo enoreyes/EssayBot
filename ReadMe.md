@@ -1,4 +1,4 @@
-
+<a href="http://github.com/enoreyes/EssayBot"><img src="https://raw.githubusercontent.com/enoreyes/EssayBot/master/EssayBot.png" alt="EssayBot"></a>
 
 # EssayBot
 
