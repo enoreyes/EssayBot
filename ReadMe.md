@@ -14,8 +14,6 @@
 
 ### Setup
 
-- If you want more syntax highlighting, format your code like this:
-
 > First make sure you have installed requirements
 
 ```shell
