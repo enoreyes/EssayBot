@@ -1,0 +1,8 @@
+USAGE:
+Run 'setup.sh' once to install dependencies.
+Run 'RunMe.sh' and follow the prompts to generate text.
+Text is automatically checked for ungrammatical errors using Language Tools.
+
+OUTPUT:
+out.txt - generated text before corrections via Language Tools
+final.txt - generated text auto-corrected by Language Tools
