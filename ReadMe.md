@@ -1,87 +1,171 @@
-# Project Title
+<a href="http://github.com/enoreyes/EssayBot"><img src="https://raw.githubusercontent.com/enoreyes/EssayBot/master/EssayBot.png" alt="EssayBot"></a>
 
-One Paragraph of project description goes here
+# EssayBot
 
-## Getting Started
+> EssayBot is an attempt to outline a system that combines state of the art techniques in the domain of text synthesis with advanced grammar and style parsers, with the goal of proposing a model for a new highly efficient writing assistant software.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+***INSERT ANOTHER GRAPHIC HERE***
 
-### Prerequisites
+- Most people will glance at your `README`, *maybe* star it, and leave
+- Ergo, people should understand instantly what your project is about based on your repo
 
-What things you need to install the software and how to install them
+> Tips
 
+- HAVE WHITE SPACE
+- MAKE IT PRETTY
+- GIFS ARE REALLY COOL
+
+> GIF Tools
+
+- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
+- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
+
+**Recordit**
+
+![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
+
+**ttystudio**
+
+![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
+
+---
+
+## Table of Contents (Optional)
+
+> If you're `README` has a lot of info, section headers might be nice.
+
+- [Installation](#installation)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Team](#team)
+- [FAQ](#faq)
+- [Support](#support)
+- [License](#license)
+
+
+---
+
+## Example (Optional)
+
+```javascript
+// code away!
+
+let generateProject = project => {
+  let code = [];
+  for (let js = 0; js < project.length; js++) {
+    code.push(js);
+  }
+};
 ```
-Give examples
+
+---
+
+## Installation
+
+- All the `code` required to get started
+- Images of what it should look like
+
+### Clone
+
+- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+
+### Setup
+
+- If you want more syntax highlighting, format your code like this:
+
+> update and install this package first
+
+```shell
+$ brew update
+$ brew install fvcproductions
 ```
 
-### Installing
+> now install npm and bower packages
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
+```shell
+$ npm install
+$ bower install
 ```
 
-And repeat
+- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
 
-```
-until finished
-```
+---
 
-End with an example of getting some data out of the system or using it for a little demo
+## Features
+## Usage (Optional)
+## Documentation (Optional)
+## Tests (Optional)
 
-## Running the tests
+- Going into more detail on code and technologies used
+- I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+---
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+> To get started...
 
-## Versioning
+### Step 1
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+- **Option 1**
+    - 🍴 Fork this repo!
 
-## Authors
+- **Option 2**
+    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+### Step 2
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+- **HACK AWAY!** 🔨🔨🔨
+
+### Step 3
+
+- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
+
+---
+
+## Team
+
+> Or Contributors/People
+
+| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
+| :---: |:---:| :---:|
+| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
+| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
+
+- You can just grab their GitHub profile image URL
+- You should probably resize their picture using `?s=200` at the end of the image URL.
+
+---
+
+## FAQ
+
+- **How do I do *specifically* so and so?**
+    - No problem! Just do this.
+
+---
+
+## Support
+
+Reach out to me at one of the following places!
+
+- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
+- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
+- Insert more social links here.
+
+---
+
+## Donations (Optional)
+
+- You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
+
+[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/fvcproductions/)
+
+
+---
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
