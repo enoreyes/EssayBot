@@ -80,4 +80,3 @@ Huge creds to TaeHwan Jung(@graykode) for his implementation of GPT-2 as well as
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2019 © <a href="http://enoreyes.com" target="_blank">Eno Reyes</a>.
