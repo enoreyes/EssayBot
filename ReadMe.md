@@ -72,7 +72,10 @@ Reach out to me at one of the following places!
 
 ---
 
-## License
+## Credits
+Huge creds to TaeHwan Jung(@graykode) for his implementation of GPT-2 as well as LanguageTools and OpenAI.
+
+---
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
