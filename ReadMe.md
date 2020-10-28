@@ -45,7 +45,7 @@ $ ./Runme
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/enoreyes/EssayBot.git`
 
 ### Step 2
 
